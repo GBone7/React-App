@@ -1,4 +1,7 @@
 #React-App
-To Run the app use
-1)  npm install
-2)  npm start
+> Note: To run app
+
+> - npm install.
+> - npm start.
+
+
